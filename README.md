@@ -45,8 +45,5 @@ This dashboard enables HR teams to monitor employee attrition patterns efficient
 3. Analyze key metrics and visualizations to gain insights.
 4. Leverage data to enhance employee engagement and retention strategies.
 
----
 
-**Author:** [Your Name]  
-**Created On:** [Date]
 
